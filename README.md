@@ -35,6 +35,7 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * iTerm
 * Alexa skill 
 * dialogflow
+* Local Storage
 
 # Past Live Streams
 * [Live Stream #108: More OOP with ES6 & The Game of Life](https://youtu.be/U8S1qDjIE2Y?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
